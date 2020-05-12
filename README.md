@@ -1,2 +1,0 @@
-# memorize
-Created with CodeSandbox
